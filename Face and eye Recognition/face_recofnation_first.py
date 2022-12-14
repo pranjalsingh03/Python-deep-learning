@@ -1,6 +1,6 @@
-## Name - Soumyajit Chakraborty
-## place - kolkata
-## date - 10 / 08 / 2020
+## Name - Pranjal Singh
+## place - Punjab
+## date - 14 / 12 / 2022
 
 import cv2 as cv
 
