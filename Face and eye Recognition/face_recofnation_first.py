@@ -1,4 +1,4 @@
-## Name - Pranjal Singh
+## Name - Pranjal Magan Singh
 ## place - Punjab
 ## date - 14 / 12 / 2022
 
